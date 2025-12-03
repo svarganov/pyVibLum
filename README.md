@@ -7,11 +7,11 @@ version 1.0
 Authors
 ========
 
-Vsevolod D. Dergachev
-Sergey A. Varganov
+Vsevolod D. Dergachev, Sergey A. Varganov;
 University of Nevada, Reno
 
-Liviu F. Chibotaru
+
+Liviu F. Chibotaru;
 Katholieke Universiteit Leuven
 
 
@@ -74,7 +74,5 @@ UserManual1.0.pdf
 Contact
 =======
 
-For user support, contact svarganov@unr.edu.
+svarganov@unr.edu
 
-
-# pyVibLum
