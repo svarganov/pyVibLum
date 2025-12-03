@@ -7,12 +7,9 @@ version 1.0
 Authors
 ========
 
-Vsevolod D. Dergachev
-Sergey A. Varganov
-University of Nevada, Reno
+Vsevolod D. Dergachev, Sergey A. Varganov; University of Nevada, Reno 
 
-Liviu F. Chibotaru
-Katholieke Universiteit Leuven
+Liviu F. Chibotaru; Katholieke Universiteit Leuven
 
 
 Description
@@ -59,12 +56,6 @@ J. Phys. Chem. Lett. 2025, 16, 2309-2313
 10.1021/acs.jpclett.4c03531
 
 
-License
-=======
-
-See LICENSE file
-
-
 Documentation
 =============
 
@@ -74,7 +65,5 @@ UserManual1.0.pdf
 Contact
 =======
 
-For user support, contact svarganov@unr.edu.
+svarganov@unr.edu.
 
-
-# pyVibLum
