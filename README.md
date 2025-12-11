@@ -7,10 +7,6 @@ version 1.0
 Authors
 ========
 
-Vsevolod D. Dergachev, Sergey A. Varganov; University of Nevada, Reno 
-
-Liviu F. Chibotaru; Katholieke Universiteit Leuven
-=======
 Vsevolod D. Dergachev, Sergey A. Varganov;
 University of Nevada, Reno
 
